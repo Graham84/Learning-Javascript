@@ -19,6 +19,7 @@ $(document).ready(function() {
 
 
 
+  //user input tool - user event listener
   var tool = new Tool();
   tool.onMouseDown = function(event) {
     //var c = Shape.Circle(event.point, 20);
