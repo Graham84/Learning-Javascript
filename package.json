@@ -1,0 +1,25 @@
+{
+  "name": "learningjs",
+  "version": "1.0.0",
+  "description": "Learning Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graham84/Learning-Javascript.git"
+  },
+  "author": "Graham Ó Síocháin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graham84/Learning-Javascript/issues"
+  },
+  "homepage": "https://github.com/Graham84/Learning-Javascript#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
