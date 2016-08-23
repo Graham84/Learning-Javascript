@@ -1,3 +1,7 @@
+#ES5 files
+dist
+public/dist
+
 # npm debugging logs
 # npm-debug.log*
 *.log
